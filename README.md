@@ -20,4 +20,4 @@ This generator uses Gulp and Node. Installing is quick and painless!
 1. Clone this repo
 2. Make sure you have [Gulp](https://gulpjs.com/) installed
 4. Clone this repo into your directory
-5. Run `gulp build` to build your template!
+5. Run default `gulp` task to build your template!
