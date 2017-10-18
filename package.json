@@ -16,10 +16,9 @@
     "gulp-entity-convert": "0.0.2",
     "gulp-html-beautify": "^1.0.1",
     "gulp-imagemin": "^3.3.0",
+    "gulp-print": "^2.0.1",
     "gulp-replace": "^0.6.1",
-    "gulp-util": "^3.0.8",
     "gulp-yaml": "^1.0.1",
-    "gulp-yaml-data": "^0.2.0",
     "gulp-zip": "^4.0.0"
   },
   "scripts": {
